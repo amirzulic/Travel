@@ -1,0 +1,27 @@
+.formBackgroundLogin {
+    color: black;
+    background: rgba(255, 240, 107,0.4);
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+.textWelcomeLogin {
+    color: black;
+    font-size: 22px;
+    text-align: center;
+}
+
+.textTitleLogin {
+    color: black;
+    font-size: 16px;
+    text-align: center;
+}
+
+.textResetPwLogin {
+    color: darkblue;
+    font-size: 12px;
+}
+
+.textResetPwLogin:hover {
+    color: #61dafb;
+}
